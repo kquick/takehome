@@ -11,7 +11,7 @@ A CI pipeline (`.github/workflows/ci.yml`) that:
   - `cabal test`
   - `npm run test:unit`
 
-## Dockefiles
+## Dockerfiles
 
 Fill out the dockerfiles to copy the code in and build the project.
 Multistage builds, caching, efficiency, etc., are not required considerations.
